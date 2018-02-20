@@ -1,0 +1,4 @@
+$font-family: 'Julius Sans One', sans-serif;
+$font-dark-color: #737a75;
+$white-color: white;
+$font-size: 30px;
